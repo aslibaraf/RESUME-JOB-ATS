@@ -3,9 +3,6 @@ import logging
 import os
 init_logging_config()
 
-S
-
-
 
 PROCESSED_RESUMES_PATH = "Data/Processed/Resumes"
 PROCESSED_JOB_DESCRIPTIONS_PATH = "Data/Processed/JobDescription"
